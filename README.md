@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquella-vieja-cancion-nuestra/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Aquella vieja canción nuestra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-vieja-cancion-nuestra/) |
+| **Get License** | [Request Licensing for Aquella vieja canción nuestra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-vieja-cancion-nuestra/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3193)
 
 ---
 
