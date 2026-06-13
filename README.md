@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquella-vieja-cancion-nuestra/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Aquella vieja canción nuestra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-vieja-cancion-nuestra/) |
+| **Get License** | [License this song: Aquella vieja canción nuestra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-vieja-cancion-nuestra/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sonando aquella vieja canción nuestra en la disco,
+> Nena, tu mirada me tiene volando sin pisar el piso.
+> De Madrid a Barcelona, rompiendo el hechizo,
+> Ven y pégate otra vez, hagamos lo que no se hizo.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
