@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquella vieja canción nuestra
+
+This log tracks the cryptographic history and versioning for the song **Aquella vieja canción nuestra** (aquella-vieja-cancion-nuestra).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T19:11:16.414419 | `v1` | `813202f2eaad87caa9ce6c9c40dddb73a71403ba8c650876d5e5c4cdcc659236` | `be89be59941e4d75d88e242ead7a58ca59ca10f6b6a99844718b31b0dc69da91` | `2026-06-13_aquella-vieja-cancion-nuestra-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
